@@ -1,16 +1,60 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"contacts": [
+		{
+			"id": 1,
+			"name": "Batman",
+			"image": "https://cdn.pixabay.com/photo/2015/11/30/14/10/batman-1070422_960_720.jpg",
+			"read": true
+		},
+		{
+			"id": 2,
+			"name": "Superman",
+			"image": "https://cdn.pixabay.com/photo/2020/04/21/11/55/superman-5072824_960_720.jpg",
+			"read": true
+		},
+		{
+			"id": 3,
+			"name": "Spiderman",
+			"image": "https://cdn.pixabay.com/photo/2016/03/20/07/51/lego-1268070_960_720.jpg",
+			"read": true
+		}
+	],
+	"messages": [
+		{
+			"chatId": 1,
+			"text": "Do you know Chuck Norris?",
+			"date": "03/25/22 6:45 PM",
+			"id": 1
+		},
+		{
+			"chatId": 1,
+			"text": "Chuck Norris can read the whole bible in one day.",
+			"date": "03/25/22 6:45 PM",
+			"id": 2
+		},
+		{
+			"chatId": 2,
+			"text": "Hello",
+			"date": "04/25/22 4:17 PM",
+			"id": 3
+		},
+		{
+			"chatId": 2,
+			"text": "Chuck Norris is Luke Skywalker's real father.",
+			"date": "04/25/22 4:17 PM",
+			"id": 4
+		},
+		{
+			"chatId": 3,
+			"text": "Bu",
+			"date": "03/15/22 5:40 PM",
+			"id": 5
+		},
+		{
+			"chatId": 3,
+			"text": "Chuck Norris' penis wears a cowboy hat.",
+			"date": "03/15/22 5:40 PM",
+			"id": 6
+		}
+	]
 }
