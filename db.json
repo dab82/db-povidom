@@ -46,7 +46,7 @@
 		},
 		{
 			"chatId": 3,
-			"text": "Bu",
+			"text": "I think Chuck Norris is better than Bruce Lee)",
 			"date": "03/15/22 5:40 PM",
 			"id": 5
 		},
@@ -55,6 +55,12 @@
 			"text": "Chuck Norris' penis wears a cowboy hat.",
 			"date": "03/15/22 5:40 PM",
 			"id": 6
+		},
+		{
+			"chatId": 3,
+			"text": "This joke is not funny.",
+			"date": "03/15/22 5:41 PM",
+			"id": 7
 		}
 	]
 }
